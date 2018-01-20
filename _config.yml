@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Bert Pattyn"
   avatar           : "/assets/images/bert.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sysadmin. Devops."
+  bio              : ""
   location         : "Belgium"
   email            : bert@dextrose.be
   uri              :
