@@ -13,8 +13,8 @@ locale                   : "en-US"
 title                    : "Dextrose"
 title_separator          : "-"
 name                     : "Bert Pattyn"
-description              : "Sysadmin. Devops. Automation."
-url                      : "https://dextrose.be" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : ""
+url                      : "https://www.dextrose.be" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Bert Pattyn"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bert.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Sysadmin. Devops."
   location         : "Belgium"
   email            : bert@dextrose.be
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "Dextro"
   gitlab           :
   google_plus      :
   keybase          :
@@ -255,3 +255,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
