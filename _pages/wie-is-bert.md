@@ -1,6 +1,6 @@
 ---
 title: "Wie is Bert?"
-permalink: /wie-is-bert
+permalink: /wie-is-bert/
 ---
 
 Ik ben Bert Pattyn. Ik woon in Oedelem, op een boogscheut van Brugge waar ik m'n jeugd doorbracht. Samen met m'n vriendin heb ik 2 kinderen, Arno en Ade.
